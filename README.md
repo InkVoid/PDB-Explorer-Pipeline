@@ -1,4 +1,4 @@
-<img width="302" height="296" alt="image" src="https://github.com/user-attachments/assets/dd1795ec-0757-4f79-a6d1-f19039bd3f67" /><img width="302" height="296" alt="image" src="https://github.com/user-attachments/assets/7bf24b56-f7ec-4fd2-bca3-92216d3e7111" /># PDB-Explorer-Pipeline
+PDB-Explorer-Pipeline
 Built to explore RCSB PDB structures interactively. It integrates essential structural biology tools into one clear workflow — allowing users to fetch structures, view 3D models, examine chains, visualize ligands, check experimental details, run BLASTp, and download structure files. 
 
 This tool was designed for fast structural analysis without requiring heavy software installations.
