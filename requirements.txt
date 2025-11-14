@@ -1,0 +1,7 @@
+# PDB Explorer requirements
+biopython>=1.80
+streamlit>=1.18.1
+pandas>=1.5
+numpy>=1.24
+matplotlib>=3.6
+requests>=2.32.5
